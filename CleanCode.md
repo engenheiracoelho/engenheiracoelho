@@ -6,7 +6,7 @@
 
 ## <i> "Indicativos de que algo não cheira bem no código.</i> 
 
-O capítulo 17 do livro "Clean Code" possui as indicações de como identificar que o código cheira bem, e auxilia no entendimento dos "odores diferentes do código" indicando as categorias e dicas a seguir.
+O capítulo 17 do livro "Clean Code" possui as indicações de como identificar que o código não cheira bem, e auxilia no entendimento dos "odores diferentes do código" indicando as categorias e dicas a seguir.
 
 ### Comentários
 
