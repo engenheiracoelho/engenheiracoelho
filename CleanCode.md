@@ -17,3 +17,5 @@ Por exemplo, se você precisa inserir como regra de negócio um upperCase, crie 
 Se não tiver o nome adequado, essa funcionalidade com certeza pode se perder com o tempo.
 * Considere sempre o principio da responsabilidade unica, tanto para classes quanto para métodos. 
 Ou seja, sempre devem ter uma unica funcionalidade, indicações de que isso não está acontecendo poderão ser parâmetros lógicos nos métodos, e 
+* "Um código feio testado é melhor que um código bonito sem testes. Jesus,Felipe". O código testado mantem a consistência das regras de negócio, facilita as modificações e fornece clareza para a implementação do código. Não necessariamente aplicar o TDD a risca, com os principios de criação de testes antes das regras de negócio, mas o próprio Mindset do TDD é suficiente para criar códigos melhores, ou seja, pensar em testes em todas as etapas do projeto.
+* Considerar a Lei de Demeter - "Um módulo não deve enxergar o interior dos objetos que ele manipula". Por exemplo, ao criar um cenário de modificação 
