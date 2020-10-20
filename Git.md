@@ -69,7 +69,17 @@ No git, primeiro você adiciona os arquivos para depois enviar as modificações
 **git log --diff-filter=M -- <caminho_do_arquivo>** - Exibe histórico de modificações de um arquivo   
 **git log --author=usuario** - Exibir histório de um determinado autor  
 
+### Reescrevendo o histórico
 
+**git commit --amend -m "Minha nova mensagem"** - Alterando mensagens de commit já realizado
+**git rebase -i HEAD~3** - Alterar últimos commits, modificando as mensagens. [Mais detalhes sobre o funcionamento](https://git-scm.com/docs/git-rebase)
 
+### Stash
 
+O Stash é um armazenamento temporário para modificações que ainda não podem ser inseridas no commit. Se você precisar mudar o branch, e já tiver feito as modificações, você realiza o stash para salvar temporariamente as modificações e inserir no branch desejado. 
 
+**git stash** - Cria um stash, salva temporariamente as modificações   
+**git stash list** - Lista os stashes criados   
+**git stash apply** - Volta ao último stash  
+**git stash apply stash@{2}** - Volta ao stash com índice 2   
+**git stash branch meu_branch** - Criar um branch a partir de um stash   
