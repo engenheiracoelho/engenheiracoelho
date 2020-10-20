@@ -15,9 +15,9 @@ Para equipes grandes é comum que os desenvolvedores estejam trabalhando em dife
 
 ### Branch - Comandos principais 
 
-**git branch novo-branch** - Cria o branch novo-branch  
-**git checkout novo-branch** - Muda o código para o branch novo-branch    
+**git branch novo-branch** - Cria o branch novo-branch
 **git checkout -b novo-branch** - Criar o branch e mudar o código para o branch novo-branch  
+**git checkout novo-branch** - Muda o código para o branch novo-branch    
 **git checkout master** - Muda o código para a arvore. Branch principal: master  
 **git branch -d novo-branch** - Deleta o branch novo-branch  
 **git branch** - Lista os branchs criados  
