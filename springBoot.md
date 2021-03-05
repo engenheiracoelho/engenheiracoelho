@@ -33,13 +33,13 @@ https://www.infoq.com/articles/springmvc_jsx-rs/
 
 #### @RestController - https://www.baeldung.com/spring-controller-vs-restcontroller
 
-#### @Configuration
+#### @Configuration - https://howtodoinjava.com/spring-core/spring-configuration-annotation/
 
-#### @Controller
+#### @Controller - https://zetcode.com/springboot/controller/
 
-#### @Repository
+#### @Repository - https://zetcode.com/springboot/repository/
 
-#### @Service
+#### @Service - https://www.journaldev.com/21435/spring-service-annotation
 
 #### @Component
 
