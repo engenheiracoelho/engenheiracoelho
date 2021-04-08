@@ -12,8 +12,8 @@
 <br><br>
 
 
-- 🔭 I’m currently working on **a trade marketing solution** at **Involves**. 
-Working with <a href="https://stackshare.io/leticiacoelho/involves">this stack</a>.
+- 🔭 I’m currently working at **Arctouch**. 
+Working with <a href="https://stackshare.io/leticiacoelho/arctouch">this stack</a>.
     
 - 🌱 I’m currently learning **ReactJs and good practices to clean code**.
 - 💬 Ask me about **educational technologies and IoT**. Or about <a href="https://stackshare.io/leticiacoelho/my-stack">my stack</a>.
