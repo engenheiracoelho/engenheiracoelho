@@ -1,7 +1,7 @@
 # 👋 Hello person!
 ### I'm Leticia Coelho <a href="https://www.imagensanimadas.com/cat-coelhos-327.htm">  <img src="https://www.imagensanimadas.com/data/media/327/coelho-imagem-animada-0421.gif" border="0" alt="coelho-imagem-animada-0421" /></a>
 <br><br>
-<img src="https://image.flaticon.com/icons/png/512/2071/2071756.png" border="0" alt="Computador" height="30" />   <img src="https://cdn.icon-icons.com/icons2/1539/PNG/512/3289564-crippled-person-disabled-person-handicapped-person-hospital-wounded-person_107106.png" border="0" alt="Pessoa com deficiência" height="30" />
+  <img src="https://cdn.icon-icons.com/icons2/1539/PNG/512/3289564-crippled-person-disabled-person-handicapped-person-hospital-wounded-person_107106.png" border="0" alt="Pessoa com deficiência" height="30" />
 <img src="https://cdn-icons-png.flaticon.com/512/1458/1458349.png" border="0" alt="Feminista" height="30" />
 <img src="https://img.icons8.com/ios/452/no-gluten.png" border="0" alt="Intolerânte ao Gluten" height="30" />
 <img src="https://img.icons8.com/ios/72/non-lactose-food.png" border="0" alt="Intolerânte a lactose" height="30" />
