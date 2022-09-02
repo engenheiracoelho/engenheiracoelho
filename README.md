@@ -149,3 +149,7 @@ Working with <a href="https://stackshare.io/leticiacoelho/arctouch">this stack</
 </p>
 
 # let's code! <3
+
+# Books that it think you should know
+
+<a href="https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697?smid=A1ZZFT5FULY4LN&linkCode=li2&tag=engenheiracoelho-gitbooks-20&linkId=6a52eb069f4daf07ce8d90965ba2a59e&language=pt_BR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8550802697&Format=_SL160_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=engenheiracoelho-gitbooks-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=engenheiracoelho-gitbooks-20&language=pt_BR&l=li2&o=33&a=8550802697" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
