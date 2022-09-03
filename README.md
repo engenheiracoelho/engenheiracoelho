@@ -141,14 +141,6 @@ Working with <a href="https://stackshare.io/leticiacoelho/arctouch">this stack</
 </details>
 
 --------
-
- # <i> "I fully believe that a great future depends on good technology and education!"</i> 
- 
- <p align="left">
-  <img src=https://64.media.tumblr.com/tumblr_lz2rp0DJiS1qcla63o1_400.gifv> 
-</p>
-
---------
 # Books I think you should know
  <p align="left">
   <img src=https://thumbs.gfycat.com/CelebratedFoolhardyAssassinbug-max-1mb.gif> 
@@ -284,6 +276,14 @@ Working with <a href="https://stackshare.io/leticiacoelho/arctouch">this stack</
 |<a href="https://amzn.to/3CYq3Sj" ><img src="https://images-na.ssl-images-amazon.com/images/I/41Gf2JM+yTL._SX363_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Storytelling no Design de Produto: Definindo, Projetando e Vendendo Produtos Multidispositivos](https://amzn.to/3CYq3Sj)|
   
 </details>
+
+--------
+
+ # <i> "I fully believe that a great future depends on good technology and education!"</i> 
+ 
+ <p align="left">
+  <img src=https://64.media.tumblr.com/tumblr_lz2rp0DJiS1qcla63o1_400.gifv> 
+</p>
 
 
 # let's code! <3
