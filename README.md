@@ -152,6 +152,19 @@ Working with <a href="https://stackshare.io/leticiacoelho/arctouch">this stack</
 
 # Books I think you should know
 
+## Internet Of Things
+
+<details>
+<summary>IoT Books</summary>
+| Book | Link | 
+| :---: | :---: |
+|<a href="https://amzn.to/3BaO7A9" ><img src="https://images-na.ssl-images-amazon.com/images/I/51Zgza+YssL._SX352_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Eletrônica para leigos](https://amzn.to/3BaO7A9)|
+|<a href="https://amzn.to/3CSTncU" ><img src="https://images-na.ssl-images-amazon.com/images/I/51xSjWrFYjL._SX352_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Arduino Para Leigos](https://amzn.to/3CSTncU)|
+|<a href="https://amzn.to/3KHfJ2W" ><img src="https://images-na.ssl-images-amazon.com/images/I/41Boy7YfNAS._SX347_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Internet Das Coisas (IoT): Segurança e Privacidade dos Dados Pessoais](https://amzn.to/3KHfJ2W)|
+|<a href="https://amzn.to/3CV2Kci" ><img src="https://images-na.ssl-images-amazon.com/images/I/41sxmO2SvtL._SX347_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[IoT com MicroPython e NodeMCU](https://amzn.to/3CV2Kci)|
+</details>
+
+# old
 | Book | Link | 
 | :---: | :---: |
 |<a href="https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697?smid=A1ZZFT5FULY4LN&linkCode=li2&tag=engenheiracoelho-gitbooks-20&linkId=6a52eb069f4daf07ce8d90965ba2a59e&language=pt_BR&ref_=as_li_ss_il" >  <img src="https://images-na.ssl-images-amazon.com/images/I/51+GkBTbmeL._SX351_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Manual de DevOps: como obter agilidade, confiabilidade e segurança em organizações tecnológicas](https://amzn.to/3TCzbBX)|
