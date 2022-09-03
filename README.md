@@ -148,9 +148,11 @@ Working with <a href="https://stackshare.io/leticiacoelho/arctouch">this stack</
   <img src=https://64.media.tumblr.com/tumblr_lz2rp0DJiS1qcla63o1_400.gifv> 
 </p>
 
-# let's code! <3
-
+--------
 # Books I think you should know
+ <p align="left">
+  <img src=https://thumbs.gfycat.com/CelebratedFoolhardyAssassinbug-max-1mb.gif> 
+</p>
 
 <details>
 <summary>Any level</summary>
@@ -284,7 +286,7 @@ Working with <a href="https://stackshare.io/leticiacoelho/arctouch">this stack</
 </details>
 
 
-
+# let's code! <3
 
 
 
