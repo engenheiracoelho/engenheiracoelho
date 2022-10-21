@@ -142,7 +142,7 @@ Working with <a href="https://stackshare.io/leticiacoelho/arctouch">this stack</
 
 --------
 
-# Livros indicados por nível e área: [ACESSE AQUI]()
+# Livros indicados por nível e área: [ACESSE AQUI](https://github.com/engenheiracoelho/engenheiracoelho/blob/master/LivrosIndicados.md)
 
 --------
 
