@@ -112,6 +112,48 @@
 </details>
 <br><br>  
 
+# Testes
+
+<a href="https://amzn.to/3Qh4W2j" ><img src="https://m.media-amazon.com/images/I/41Z4rmM4Z1L._SX346_BO1,204,203,200_.jpg" border="0" height="150"/></a>  
+[TDD - Test Driven Development na Prática](https://amzn.to/3Qh4W2j)
+<br><br>  
+<details>
+<summary>Clique aqui para mais livros</summary>
+<br><br> 
+<details>
+<summary>Português</summary>
+  
+| Livro | Link | 
+| :---: | :---: | 
+|<a href="https://amzn.to/3VKCTtk" ><img src="https://m.media-amazon.com/images/I/41LnM8qgO1L.jpg" border="0" height="150"/></a> |[Test-Driven Development: Teste e Design no Mundo Real](https://amzn.to/3VKCTtk)|
+|<a href="https://amzn.to/3Qfbe2k" ><img src="https://m.media-amazon.com/images/I/51Vy2Jb7InL.jpg" border="0" height="150"/></a> |[TDD com Python: Siga o bode dos testes: usando Django, Selenium e JavaScript](https://amzn.to/3Qfbe2k)| 
+|<a href="https://amzn.to/3CLLAgn" ><img src="https://m.media-amazon.com/images/I/41XCB2yARGL.jpg" border="0" height="150"/></a> |[Testes automatizados de software: Um guia prático](https://amzn.to/3CLLAgn)| 
+|<a href="https://amzn.to/3VNGmav" ><img src="https://m.media-amazon.com/images/I/41eATj+NUxL._SX329_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Test-driven Development. Teste e Design no Mundo Real com .net](https://amzn.to/3VNGmav)| 
+|<a href="https://amzn.to/3VFI25K" ><img src="https://m.media-amazon.com/images/I/41E+EQIV6HL.jpg" border="0" height="150"/></a> |[TDD para Games: Desenvolvimento guiado a testes para jogos digitais](https://amzn.to/3VFI25K)| 
+|<a href="https://amzn.to/3QdTuEy" ><img src="https://m.media-amazon.com/images/I/417SWhfcbOL.jpg" border="0" height="150"/></a> |[Test-Driven Development: Teste e Design no Mundo Real com PHP](https://amzn.to/3QdTuEy)| 
+|<a href="https://amzn.to/3vBsaqr" ><img src="https://m.media-amazon.com/images/I/41QX4oiBEkL.jpg" border="0" height="150"/></a> |[TDD e BDD na prática: Construa aplicações Ruby usando RSpec e Cucumber](https://amzn.to/3vBsaqr)| 
+ 
+</details>
+<br>
+<details>
+<summary>English</summary>
+  
+| Livro | Link | 
+| :---: | :---: | 
+|<a href="https://amzn.to/3VMsgWR" ><img src="https://m.media-amazon.com/images/I/41mWttCFqkL.jpg" border="0" height="150"/></a> |[Test Driven Development: By Example](https://amzn.to/3VMsgWR)| 
+|<a href="https://amzn.to/3GG18V5" ><img src="https://m.media-amazon.com/images/I/51W6W+UOptL._SX415_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Test-Driven Development for Embedded C: Building Hihg Quality Embedded Software](https://amzn.to/3GG18V5)| 
+|<a href="https://amzn.to/3CmgOKs" ><img src="https://m.media-amazon.com/images/I/41KIitkrVNL._SX404_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Android Test-Driven Development by Tutorials: Learn Android TDD by Building Real-World Apps](https://amzn.to/3CmgOKs)| 
+|<a href="https://amzn.to/3ZaW3LL" ><img src="https://m.media-amazon.com/images/I/411yEwiAMdL.jpg" border="0" height="150"/></a> |[The Complete Software Tester: Concepts, Skills, and Strategies for High-Quality Testing](https://amzn.to/3ZaW3LL)|   
+|<a href="https://amzn.to/3WMXy16" ><img src="https://m.media-amazon.com/images/I/41RtV-zPjnL._SX404_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Test-Driven Java Development: Invoke TDD principles for end-to-end application development](https://amzn.to/3WMXy16)|  
+|<a href="https://amzn.to/3Gkrz10" ><img src="https://m.media-amazon.com/images/I/41YS0XJ9-xL._SX406_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Unit Testing:Principles, Practices and Patterns](https://amzn.to/3Gkrz10)|  
+|<a href="https://amzn.to/3GBCvrB" ><img src="https://m.media-amazon.com/images/I/41+4def9DeL.jpg" border="0" height="150"/></a> |[Test Driven Development in Ruby: A Practical Introduction to TDD Using Problem and Solution Domain Analysis](https://amzn.to/3GBCvrB)| |<a href="https://amzn.to/3iaIjQC" ><img src="https://m.media-amazon.com/images/I/41v5EIfykuL._SX335_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Testes de software](https://amzn.to/3iaIjQC)|   
+|<a href="https://amzn.to/3Il9hj7" ><img src="https://m.media-amazon.com/images/I/51DlCCMPOoL.jpg" border="0" height="150"/></a> |[Fifty Quick Ideas To Improve Your Tests](https://amzn.to/3Il9hj7)|
+ 
+</details>
+ 
+</details>
+<br><br> 
+
 # Ciência de dados
 
 <a href="https://amzn.to/3wSx57w" ><img src="https://images-na.ssl-images-amazon.com/images/I/51mMQzKcfjL._SX353_BO1,204,203,200_.jpg" border="0" height="150"/></a>   
@@ -141,7 +183,7 @@
 
 <details>
 <summary>Clique para mais livros sobre Devops </summary>
-  
+
 | Livro | Link | 
 | :---: | :---: |
 |<a href="https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697?smid=A1ZZFT5FULY4LN&linkCode=li2&tag=engenheiracoelho-gitbooks-20&linkId=6a52eb069f4daf07ce8d90965ba2a59e&language=pt_BR&ref_=as_li_ss_il" >  <img src="https://images-na.ssl-images-amazon.com/images/I/51+GkBTbmeL._SX351_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Manual de DevOps: como obter agilidade, confiabilidade e segurança em organizações tecnológicas](https://amzn.to/3TCzbBX)|  
