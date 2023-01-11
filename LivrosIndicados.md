@@ -37,6 +37,32 @@
 </details> 
 <br><br>  
 
+# Lógica
+
+<a href="https://amzn.to/3X1kLfT" ><img src="https://m.media-amazon.com/images/I/51uKR6J3cBL._SX345_BO1,204,203,200_.jpg" border="0" height="150"/></a>  
+[Algoritmos E Lógica Da Programação](https://amzn.to/3X1kLfT)
+<br><br>  
+<details>
+<summary>Clique aqui para mais livros</summary>
+  
+| Livro | Link | 
+| :---: | :---: |
+|<a href="https://amzn.to/3IAwrSG" ><img src="https://m.media-amazon.com/images/I/51snbPl-GAL._SX352_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Algoritmos: Lógica Para Desenvolvimento de Programação de Computadores](https://amzn.to/3IAwrSG)|
+|<a href="https://amzn.to/3GX4a7G" ><img src="https://m.media-amazon.com/images/I/51vNGn+uaTL.jpg" border="0" height="150"/></a> |[Lógica Para Leigos](https://amzn.to/3GX4a7G)|
+|<a href="https://amzn.to/3k79IDE" ><img src="https://m.media-amazon.com/images/I/51lFoaqztpS._SX341_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[O grande livro de raciocínio e lógica](https://amzn.to/3k79IDE)|
+|<a href="https://amzn.to/3isO38r" ><img src="https://m.media-amazon.com/images/I/51zlUqFyYwS._SY498_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Como pensar com estratégia](https://amzn.to/3isO38r)|
+|<a href="https://amzn.to/3k8WVAz" ><img src="https://m.media-amazon.com/images/I/514O1Aj5TaS._SY498_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Como pensar com criatividade](https://amzn.to/3k8WVAz)|
+|<a href="https://amzn.to/3k2XQ5r" ><img src="https://m.media-amazon.com/images/I/41H7uhP1aCL._SX352_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Turbine seu cérebro: Dicas e estratégias para expandir a capacidade mental](https://amzn.to/3k2XQ5r)|
+|<a href="https://amzn.to/3GBLn06" ><img src="https://m.media-amazon.com/images/I/512IJlDB39L._SY498_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Cérebro lado esquerdo-lado direito: Raciocínio lógico - Memória - Linguagem - Análise e outras habilidades - Jogos para desenvolver a sua capacidade: 1](https://amzn.to/3GBLn06)|
+|<a href="https://amzn.to/3W1yfHd" ><img src="https://m.media-amazon.com/images/I/518FWPjtvwS._SY498_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Como pensar com lógica](https://amzn.to/3W1yfHd)|
+|<a href="https://amzn.to/3IHTQBE" ><img src="https://m.media-amazon.com/images/I/41c-rERID1L._SX324_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Blocos lógicos: 150 exercícios para flexibilizar o raciocínio](https://amzn.to/3IHTQBE)|
+|<a href="https://amzn.to/3IFEa1C" ><img src="https://m.media-amazon.com/images/I/41xckJn+3YL._SX338_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Jogos de matemática e de raciocínio lógico](https://amzn.to/3IFEa1C)|
+|<a href="https://amzn.to/3QLUCQh" ><img src="https://m.media-amazon.com/images/I/41O-sVnUzqL._SX352_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Lógica de Programação: A Construção de Algoritmos e Estruturas de Dados](https://amzn.to/3QLUCQh)|
+|<a href="https://amzn.to/3ZqpCJp" ><img src="https://m.media-amazon.com/images/I/51qzWJ3fe-L._SX426_BO1,204,203,200_.jpg" border="0" height="150"/></a> |[Pensamento lógico: 50 desafios para a mente](https://amzn.to/3ZqpCJp)|
+ 
+</details>
+<br><br>  
+
 # Totalmente iniciante ou nível junior
 
 <a href="https://amzn.to/3RzxjrM" ><img src="https://images-na.ssl-images-amazon.com/images/I/517I6z9QK4L._SX357_BO1,204,203,200_.jpg" border="0" height="150"/></a>  
